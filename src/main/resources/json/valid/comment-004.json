@@ -1,0 +1,10 @@
+{
+	"// comment1": "",
+	"// comment2": "",
+	"# or if you like": "",
+	"-- you can use SQL style": "",
+	"/* or even java style": "*/",
+	"/* or even other java style": "",
+	"   multi line but ugly ...": "*/",
+	"some": "valid data .."
+}
