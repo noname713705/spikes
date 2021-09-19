@@ -5,4 +5,5 @@
 
 == notes
 * checking commits
+* fixing minor problem
  
