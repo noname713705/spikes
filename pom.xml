@@ -13,7 +13,7 @@
 
 
 	<scm>
-		<connection>scm:git:https://github.com/noname713705/spikes.git</connecgittion>
+		<connection>scm:git:https://github.com/noname713705/spikes.git</connection>
 		<url>https://github.com/noname713705/spikes</url>
 		<tag>HEAD</tag>
 	</scm>
